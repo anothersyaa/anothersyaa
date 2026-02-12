@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 ##### Connect Whith Me
 
-![https://www.instagram.com/ssyaamasfarah_?igsh=dHBuNGs2dDRuanFi](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) @ssyaamasfarah_
+![https://www.instagram.com/ssyaamasfarah_?igsh=dHBuNGs2dDRuanFi](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+![@ssyaamasfarah_]
 
 
 
