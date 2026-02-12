@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - 🌱 Currently I am studying Civil Engineering and some programming
 - ⚡ Fun fact: **I like gaming, silence, and traveling**
 
-#### Skils
+<!--## Skills
+
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
