@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 - 📫 How to contact me: Instagram [@ssyaamasfarah_](https://www.instagram.com/ssyaamasfarah_?igsh=dHBuNGs2dDRuanFi)
 
 
+![anothersyaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anothersyaa&hide=contribs,prs)
+
+
+
+
+
 ![Good Game](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0c2w3Z3dqcmExaTJyOGR2anVzcnB1dnp5aTNjNnFiczlpcmV4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif)
 
 
