@@ -21,10 +21,14 @@ Here are some ideas to get you started:
 
 ##### Skils
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo=html5&logoColor=white"
-<img src="https://img.shields.io/badge/CSS3-157286?style-for-the-badge&logo=css3&logoColor=white"
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
-<img src="https://img.shields.io/badge/JavaScript-3233307style=for-the-badge&logo-javascript&logoColor=F7DF1E"
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
 
 ![Good Game](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0c2w3Z3dqcmExaTJyOGR2anVzcnB1dnp5aTNjNnFiczlpcmV4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif)
 
