@@ -17,7 +17,15 @@ Here are some ideas to get you started:
 
 - 🔭 Currently I am working on some casual game apps
 - 🌱 Currently I am studying Civil Engineering and some programming
-- 📫 How to contact me: **Instagram** [**@ssyaamasfarah_**](https://www.instagram.com/ssyaamasfarah_?igsh=dHBuNGs2dDRuanFi)
 - ⚡ Fun fact: **I like gaming, silence, and traveling**
 
+##### Skils
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style-for-the-badge&logo=html5&logoColor=white"
+<img src="https://img.shields.io/badge/CSS3-157286?style-for-the-badge&logo=css3&logoColor=white"
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+<img src="https://img.shields.io/badge/JavaScript-3233307style=for-the-badge&logo-javascript&logoColor=F7DF1E"
+
 ![Good Game](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0c2w3Z3dqcmExaTJyOGR2anVzcnB1dnp5aTNjNnFiczlpcmV4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif)
+
+
