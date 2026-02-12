@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 Currently I am working on some casual game apps
 - 🌱 Currently I am studying Civil Engineering and some programming
-- 📫 How to contact me: Instagram [**@ssyaamasfarah_**](https://www.instagram.com/ssyaamasfarah_?igsh=dHBuNGs2dDRuanFi)
+- 📫 How to contact me: **Instagram** [**@ssyaamasfarah_**](https://www.instagram.com/ssyaamasfarah_?igsh=dHBuNGs2dDRuanFi)
 - ⚡ Fun fact: **I like gaming, silence, and traveling**
 
 ![Good Game](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWV0c2w3Z3dqcmExaTJyOGR2anVzcnB1dnp5aTNjNnFiczlpcmV4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif)
